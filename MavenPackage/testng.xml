@@ -1,0 +1,7 @@
+<suite name="TestNG-TESTING">
+ <test name="TESTING-TestNG">
+ <classes>
+ <class name="TestingNG.testingTNG" />
+ </classes>
+ </test>
+</suite>
